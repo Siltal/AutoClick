@@ -2,7 +2,7 @@
 
 - [x] 操作悬浮窗
 
-- [x] 基于Accessibility必现模拟点击
+- [x] 基于Accessibility实现模拟点击
 
 - [x] 基于Accessibility模拟滑动
 
